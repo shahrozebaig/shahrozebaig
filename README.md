@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning DevOps and AWS.<br><br>👨‍💻 Exploring Full Stack Development and Data Science.<br><br>🤝 Looking to collaborate on Data Science, Full Stack, and AI/ML projects.<br><br>🎮 Gaming enthusiast who loves playing different kinds of games.<br><br>📫 You can contact me at shahrozeb98@gmail.com.
 
+![download](https://github.com/user-attachments/assets/0fe118ba-4346-46d8-a092-6cac2bc79269)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EWEhuM4n) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shahroze.baig.50) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shahrozebaig18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shahroze-baig-692264290) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Entire-Amphibian3212/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SHAHROZE118) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahrozeb98@gmail.com) 
