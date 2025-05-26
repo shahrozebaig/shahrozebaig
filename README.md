@@ -1,5 +1,7 @@
 # 💫 About Me:
-      ![17482888547688847450705882430853](https://github.com/user-attachments/assets/2b017a74-0094-420b-8641-61044ce3e85a)
+
+      ![blinkiesCafe-VO](https://github.com/user-attachments/assets/f1d2dfe6-a406-4e1d-80cf-0b56886db030)
+
 
 🌱 I’m currently learning DevOps and AWS.<br><br>👨‍💻 Exploring Full Stack Development and Data Science.<br><br>🤝 Looking to collaborate on Data Science, Full Stack, and AI/ML projects.<br><br>🎮 Gaming enthusiast who loves playing different kinds of games.<br><br>📫 You can contact me at shahrozeb98@gmail.com.
 
