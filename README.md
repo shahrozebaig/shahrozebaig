@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shahroze+Baig+%F0%9F%91%8B;AI%2FML+Developer+%F0%9F%8C%90;Lifelong+Learner+%F0%9F%93%9A;Building+innovative+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shahroze+Baig+%F0%9F%91%8B;AI%2FML+Developer+%F0%9F%8C%90;Lifelong+Learner+%F0%9F%93%9A;Building+innovative+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+</p>
 
 
 # 💫 About Me:
