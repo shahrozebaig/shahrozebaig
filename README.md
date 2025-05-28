@@ -1,20 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shahroze+Baig+%F0%9F%91%8B;AI%2FML+Developer+%F0%9F%8C%90;Lifelong+Learner+%F0%9F%93%9A;Building+innovative+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahrozebaig&label=Profile%20views&color=FF5733&style=flat" alt="shahrozebaig" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
-<h3 align="center">“Transforming ideas into AI-powered solutions”</h3>
-
----
-
-
 
 # 💫 About Me:
 🌱 I’m currently learning DevOps and AWS.<br><br>👨‍💻 Exploring Full Stack Development and Data Science.<br><br>🤝 Looking to collaborate on Data Science, Full Stack, and AI/ML projects.<br><br>🎮 Gaming enthusiast who loves playing different kinds of games.<br><br>📫 You can contact me at shahrozeb98@gmail.com.
