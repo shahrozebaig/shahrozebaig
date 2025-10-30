@@ -2,7 +2,6 @@
 
 
 # 💫 About Me:
-▸ I’m currently learning DevOps and AWS to strengthen my cloud and deployment skills.<br><br>
 ▸ Expanding my knowledge in Artificial Intelligence and Data Science to build smarter, data-driven solutions.<br><br>
 ▸ Open to collaborating on exciting projects related to AI/ML, Data Science, and Automation.<br><br>
 ▸ A gaming enthusiast who enjoys exploring different types of games in my free time.<br><br>
