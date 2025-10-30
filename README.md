@@ -2,7 +2,12 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning DevOps and AWS.<br><br>👨‍💻 Exploring Full Stack Development and Data Science.<br><br>🤝 Looking to collaborate on Data Science, Full Stack, and AI/ML projects.<br><br>🎮 Gaming enthusiast who loves playing different kinds of games.<br><br>📫 You can contact me at shahrozeb98@gmail.com.
+▸ I’m currently learning DevOps and AWS to strengthen my cloud and deployment skills.<br><br>
+▸ Expanding my knowledge in Artificial Intelligence and Data Science to build smarter, data-driven solutions.<br><br>
+▸ Open to collaborating on exciting projects related to AI/ML, Data Science, and Automation.<br><br>
+▸ A gaming enthusiast who enjoys exploring different types of games in my free time.<br><br>
+▸ You can reach me at shahrozeb98@gmail.com
+ — always happy to connect and share ideas!
 
 ![17482884395307538483928075477112](https://github.com/user-attachments/assets/41723652-a34d-4163-869a-a3dd39726164)
 
