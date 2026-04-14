@@ -25,15 +25,7 @@ Presently exploring AI/ML and Generative AI use cases, focusing particularly on 
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahrozebaig/shahrozebaig/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahrozebaig/shahrozebaig/output/github-contribution-grid-snake-neon.svg" />
-</p>
+![snake gif](https://raw.githubusercontent.com/shahrozebaig/shahrozebaig/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahrozebaig&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
