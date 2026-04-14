@@ -14,7 +14,7 @@ Presently exploring AI/ML and Generative AI use cases, focusing particularly on 
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/ab6b0eb9-a1cd-43d6-a74e-d0d0602f231e" width="480" />  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github.com/user-attachments/assets/90cac8a1-34fa-44c9-851f-9afe2782d7a3" width="480" />
+<img src="https://github.com/user-attachments/assets/ab6b0eb9-a1cd-43d6-a74e-d0d0602f231e" width="480" />  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github.com/user-attachments/assets/90cac8a1-34fa-44c9-851f-9afe2782d7a3" width="280" />
 
 </div>
 
