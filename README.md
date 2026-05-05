@@ -31,7 +31,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/shahrozebaig/shahrozebaig/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shahrozebaig/shahrozebaig/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahrozebaig&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
