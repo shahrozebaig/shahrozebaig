@@ -25,13 +25,16 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shahrozebaig&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shahrozebaig&theme=neon&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api?username=shahrozebaig&theme=neon&hide_border=false&include_all_commits=true&count_private=true) 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shahrozebaig&theme=neon&hide_border=true&cache_seconds=60)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahrozebaig&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/shahrozebaig/shahrozebaig/blob/output/github-contribution-grid-snake.svg)
+[![snake gif](https://github.com/shahrozebaig/shahrozebaig/blob/output/github-contribution-grid-snake.svg)]
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahrozebaig&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
