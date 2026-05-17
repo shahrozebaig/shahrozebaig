@@ -28,7 +28,7 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=shahrozebaig&theme=neon&hide_border=false&include_all_commits=true&count_private=true) 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shahrozebaig&theme=neon&hide_border=true&cache_seconds=60)
+![GitHub Streak](https://streak-stats.demolab.com?user=shahrozebaig&theme=neon&hide_border=true&cache_seconds=0)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahrozebaig&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
